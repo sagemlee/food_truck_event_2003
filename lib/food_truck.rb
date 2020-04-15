@@ -29,4 +29,6 @@ class FoodTruck
     end
     rev.sum
   end
+
+
 end
