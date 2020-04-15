@@ -3,7 +3,6 @@ class Item
 
   def initialize(info)
     @name = info[:name]
-
     @price = info[:price].sub("$","").to_f
   end
 
